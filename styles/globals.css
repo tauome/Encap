@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.background {
+    background-color: ghostwhite;
+  }
+
+  .nav {
+      background-color: rgb(36, 56, 55);
+  }
+
+  .font {
+      color: white;
+  }
